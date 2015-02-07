@@ -10,6 +10,7 @@
             "email": "dr@shiyang.me"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
