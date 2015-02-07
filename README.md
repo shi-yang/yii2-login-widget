@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist shiyang/yii2-login-widget "dev-master"
+php composer.phar require --prefer-dist shiyang/yii2-login-widget "*"
 ```
 
 or add
 
 ```
-"shiyang/yii2-login-widget": "dev-master"
+"shiyang/yii2-login-widget": "*"
 ```
 
 to the require section of your `composer.json` file.
