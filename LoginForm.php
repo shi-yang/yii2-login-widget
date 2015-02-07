@@ -1,4 +1,10 @@
 <?php
+/**
+ * @copyright Copyright (c) 2015 Shiyang
+ * @author Shiyang <dr@shiyang.me>
+ * @link http://shiyang.me
+ * @license http://opensource.org/licenses/MIT
+ */
 namespace shiyang\login;
 
 use Yii;
