@@ -2,6 +2,10 @@ Yii2-login-widget
 ===============
 This extension provides a login portlet  that provides user login functionality.
 
+Preview
+-------
+![Login widget](https://github.com/shi-yang/preview/blob/master/yii2-login-widget.png)
+
 Installation
 ------------
 
